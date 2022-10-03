@@ -1,0 +1,1 @@
+SELECT 日付 FROM 家計簿 WHERE 出金額 > 2000

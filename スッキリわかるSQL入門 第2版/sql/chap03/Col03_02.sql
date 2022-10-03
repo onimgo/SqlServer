@@ -1,0 +1,1 @@
+SELECT * FROM 家計簿 WHERE メモ LIKE '%100$%' ESCAPE '$'

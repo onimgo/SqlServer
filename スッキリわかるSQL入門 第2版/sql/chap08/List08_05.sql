@@ -1,0 +1,1 @@
+SELECT * FROM 右表 WHERE 結合条件の式

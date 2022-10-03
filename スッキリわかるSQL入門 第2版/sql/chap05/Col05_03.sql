@@ -1,0 +1,2 @@
+/* Db2 */
+SELECT 式や関数 FROM SYSIBM.SYSDUMMY1

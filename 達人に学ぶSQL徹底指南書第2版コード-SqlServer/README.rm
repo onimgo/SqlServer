@@ -1,0 +1,32 @@
+達人に学ぶSQL徹底指南書 第2版 初級者で終わりたくないあなたへ
+付属データ（SQLサンプルコード）
+*2021年6月4日更新
+https://www.shoeisha.co.jp/book/download/9784798157825/detail
+
+SQLServerでキャッシュをクリアする
+DBCC DROPCLEANBUFFERS
+DBCC FREEPROCCACHE
+
+COUNT や CASEを使う場合は
+必ず GROUP BY すること
+
+
+
+
+■ 使用していたツール
+SSMS 
+サクラエディタ
+Visual Studio 
+
+■ 業務
+1.SSMS ※ 実行する前にリーダにクエリを見てもらえるらしいです。
+    テーブルデータの取得、作成、変更、削除
+    ストアドプロシージャ
+    ビュー
+2.サクラエディタ　
+    grep検索
+3.設計書
+    作成、修正
+4.Visual Studio
+    コード調査
+    ブレークポイントを張って、重たい処理を調査
